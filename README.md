@@ -32,10 +32,10 @@ FOSSLight Util needs a Python 3.6+.
 
 ## 🎉 How to install
 
-It can be installed using pip3. 
+It can be installed using pip. 
 
 ```
-$ pip3 install fosslight_util
+$ pip install fosslight_util
 ```
 
 ## 🚀 How to use
